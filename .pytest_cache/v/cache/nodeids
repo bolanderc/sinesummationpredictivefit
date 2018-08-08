@@ -1,0 +1,4 @@
+[
+  "test.py::test_decomposition",
+  "test.py::test_downsample"
+]
